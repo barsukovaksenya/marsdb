@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="mt-4 text-center">
+    <h2>Оформление каюты</h2>
+    <table class="mx-auto" style="border-collapse: collapse;">
+        <tr>
+            <td style="padding: 5px; font-weight: bold;">Цвет стен</td>
+            <td style="padding: 5px; font-weight: bold;">Эмблема</td>
+        </tr>
+        <tr>
+            <td style="width: 200px; height: 200px; background-color: {{ color }};"></td>
+            <td style="padding: 10px;">
+                <img src="{{ alien }}" alt="марсианин"
+                     style="height: 200px;">
+            </td>
+        </tr>
+    </table>
+</div>
+{% endblock %}

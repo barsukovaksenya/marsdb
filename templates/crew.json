@@ -1,0 +1,40 @@
+{
+    "crew": [
+        {
+            "name": "Иван",
+            "surname": "Иванов",
+            "photo": "https://fanfics.me/images/fandoms_heroes/1174-1539338318.jpg",
+            "specialties": ["пилот", "капитан корабля", "штурман"]
+        },
+        {
+            "name": "Фёдор",
+            "surname": "Фёдоров",
+            "photo": "https://fanfics.me/images/fandoms_heroes/1174-1539338302.jpg",
+            "specialties": ["астрогеолог", "специалист по радиационной защите"]
+        },
+        {
+            "name": "Марк",
+            "surname": "Маркович",
+            "photo": "https://fanfics.me/images/fandoms_heroes/1174-1539338315.jpg",
+            "specialties": ["экзобиолог", "климатолог", "врач"]
+        },
+        {
+            "name": "Квант",
+            "surname": "Квантович",
+            "photo": "https://fanfics.me/images/fandoms_heroes/1174-1539338308.jpg",
+            "specialties": ["инженер жизнеобеспечения", "киберинженер"]
+        },
+        {
+            "name": "Азимут",
+            "surname": "Негеограф",
+            "photo": "https://steshka.ru/wp-content/uploads/2014/03/smittymonstercorporation.jpg",
+            "specialties": ["метеоролог", "оператор марсохода", "пилот дронов"]
+        },
+        {
+            "name": "Пётр",
+            "surname": "Непервый",
+            "photo": "https://i.pinimg.com/474x/7c/84/45/7c84452c37b2afbfca38b6d8315fedd4.jpg",
+            "specialties": ["строитель", "инженер по терраформированию"]
+        }
+    ]
+}
