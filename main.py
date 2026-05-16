@@ -264,8 +264,9 @@ db_sess.commit()
 #         db_sess.commit()
 #
 #
-# app = Flask(__name__)
-# app.config['SECRET_KEY'] = 'yandexlyceum_secret_key'
+
+app = Flask(__name__)
+app.config['SECRET_KEY'] = 'yandexlyceum_secret_key'
 
 
 def main():
